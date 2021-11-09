@@ -1,2 +1,2 @@
-# pythonworkbooksolutions
-Solutions for Python Workbook (Ben Stephenson)
+# Python Workbook Solutions
+Solutions for Python Workbook by Ben Stephenson
